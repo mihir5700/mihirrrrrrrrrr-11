@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mihir
 - 👀 I’m interested in Web Development and in learning new tech related stuff.
-- 🌱 I’m currently learning CSS, JAVA, MySql, etc.
-- 💞️ I’m looking to collaborate on doing projects based on webdevelopment.
+- 🌱 I’m currently learning MERN Stack, Django, Flask, Flutter
 - 📫 How to reach me:- Mail-id - mihirgupta84@gmail.com and also providing my linkedin and instagram id,
 > Linkedin - https://www.linkedin.com/in/mihir-gupta-631912203
 > Instagram - https://instagram.com/mihirrrrrrrrrrrrrrr?utm_medium=copy_link
